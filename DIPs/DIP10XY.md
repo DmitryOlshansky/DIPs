@@ -4,7 +4,7 @@
 | Section         | Value                                                           |
 |-----------------|-----------------------------------------------------------------|
 | DIP:            | 10XY                                                            |
-| Review Count:   | 1 [Most Recent]                                                 |
+| Review Count:   | ??? |                                         | |
 | Author:         | Dmitry Olshansky     |
 | Implementation: |                                                                 |
 | Status:         | Draft                                                           |
